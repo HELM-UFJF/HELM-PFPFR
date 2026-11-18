@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this repository."
+title: "HELM-PFPFR: Power flow with primary frequency regulation in the holomorphic load flow"
+type: software
+version: 1.0.0
+date-released: 2026-11-17
+license: MIT
+repository-code: "https://github.com/HELM-UFJF/HELM-PFPFR"
+keywords:
+  - holomorphic embedding load flow
+  - primary frequency regulation
+  - power flow
+  - Wynn epsilon algorithm
+  - MATLAB
+authors:
+  - family-names: Lima
+    given-names: Glaucus R. S.
+    affiliation: Federal University of Juiz de Fora
+  - family-names: Oliveira
+    given-names: Edimar J.
+    affiliation: Federal University of Juiz de Fora
+  - family-names: Oliveira
+    given-names: Leonardo W.
+    affiliation: Federal University of Juiz de Fora
+preferred-citation:
+  type: article
+  title: "Holomorphic embedding power flow with primary frequency regulation and generator active and reactive power limits"
+  journal: "International Journal of Electrical Power & Energy Systems"
+  year: 2026
+  status: submitted
+  authors:
+    - family-names: Lima
+      given-names: Glaucus R. S.
+    - family-names: Oliveira
+      given-names: Edimar J.
+    - family-names: Oliveira
+      given-names: Leonardo W.
